@@ -7,6 +7,7 @@ if __name__ =="__main__":
   logging.info("The execution has started")
   
   
+  
   try:
     data_ingestion=DataIngestion()
     data_ingestion.initiate_data_ingestion()
