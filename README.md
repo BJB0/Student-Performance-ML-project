@@ -30,7 +30,7 @@ This project predicts **math scores** using student-related attributes to enable
 - **Experiment Tracking:** MLflow, DagsHub  
 - **Data Versioning:** DVC  
 - **Version Control:** Git & GitHub  
-- **Environment Management:** Conda / Virtual Environment  
+- **Environment Management:**  Virtual Environment  
 
 ---
 
@@ -92,7 +92,7 @@ This project predicts **math scores** using student-related attributes to enable
 - CatBoost
 - Used **GridSearchCV** for tuning
 - Selected best model using **R² score**
-- Final model achieved **~87% R²**
+- Final model achieved **~85% R²**
 - Saved model as `model.pkl`
 
 ---
